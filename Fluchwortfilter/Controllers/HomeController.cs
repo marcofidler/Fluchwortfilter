@@ -1,6 +1,7 @@
 ﻿using Fluchwortfilter.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Google.Cloud.Speech.V1;
 
 namespace Fluchwortfilter.Controllers
 {
